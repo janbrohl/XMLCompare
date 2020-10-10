@@ -1,8 +1,7 @@
 XMLCompare
 ==========
 
-.. image:: https://img.shields.io/badge/Say%20Thanks!-%F0%9F%A6%89-1EAEDB.svg
-    :target: https://saythanks.io/to/janbrohl
+`🍕Buy me a Pizza <https://www.buymeacoffee.com/janbrohl>`_
 
 Check xml elements/documants or strings for semantic equality by comparing a normalized representation (ElementTree_).
 
